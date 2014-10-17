@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tpg:home|Door43 (tpg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tpg|d43-tpg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tpg/archive/master.zip|d43-tpg.zip]]
+
+**Recent Changes**
+{{changes>ns = tpg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tpg|Ethnologue data]]
+
